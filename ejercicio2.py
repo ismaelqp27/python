@@ -1,0 +1,7 @@
+nombre = input("Ingrese su nombre: ")
+nombre_completo = input("Ingrese su nombre completo: ")
+apellido1 = input("Ingrese su primer apellido: ")
+apellido2 = input("Ingrese su segundo apellido: ")
+print(nombre_completo.lower())
+print(nombre_completo.upper())
+print(nombre.capitalize(), apellido1.capitalize(),apellido2.capitalize())
